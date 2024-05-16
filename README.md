@@ -1,1 +1,1 @@
-# Nawal-Abdelmoniem-NLP_Hate-Speech-Classification
+# NLP_Hate-Speech-Classification
